@@ -1,2 +1,8 @@
-#PyCharm
+# PyCharm
 /.idea/
+
+# Uploaded images folder
+/images/
+
+# Bytecode cache
+__pycache__

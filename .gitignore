@@ -6,3 +6,6 @@
 
 # Bytecode cache
 __pycache__
+
+# Static resources
+/static/
